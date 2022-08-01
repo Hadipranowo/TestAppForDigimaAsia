@@ -1,2 +1,2 @@
 export { default as Login } from './Login';
-// export { default as Journey } from './Journey';
+export { default as Journey } from './Journey';
